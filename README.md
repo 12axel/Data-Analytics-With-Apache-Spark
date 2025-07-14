@@ -53,6 +53,13 @@ For this part of the project, we were required to use the same datasets we creat
 The first task of this part required us to generate a subset of the dataset composed of customer ID, TransID, Age, Salary, TransNumItems and TransTotal, and refer it as
 "dataset". We then had to randomly split the "dataset" into two a training set and testing such that the training set contains 80% of the "dataset" and the testing the remaining 20%.
 
-The second task of this part, we had to make 2 regression models in which the "features" (X) for this task are Age, Salary, TransNumItems and the "outcome" (Y) is TransTotal. 
-After doing so, we were required to train the models over the training set made during the previous task and applied over the testing set made during the previous task.
+For the second task of this part, we had to make 2 regression models in which the "features" (X) for this task were Age, Salary, TransNumItems and the "outcome" (Y) was 
+TransTotal.  After doing so, we were required to train the models over the training set made during the previous task and applied over the testing set made during the 
+previous task.
+
+For the third task of this part, we had to select and use at least 1 metric to evaluate the two regression models made for the previous task using Regression Evaluation. 
+Additionally, we were also required to report our obtained results and use them to determine which model was more effective and provide a conclusion from there.
+
+
+
 
