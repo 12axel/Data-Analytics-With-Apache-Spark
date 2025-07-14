@@ -1,6 +1,6 @@
 ## Project Tasks Overview:
 
-# Part 1: Concert seating proximity data anaylsis with Spark-RDDs:
+### Part 1: Concert seating proximity data anaylsis with Spark-RDDs:
 Before performing any kind of analysis, 3 datasets had to be created using Python. The 3 datasets called PEOPLE-large, INFECTED-small and PEOPLE-SOME-INFECTED-large. Each line
 (person) of those files was composed of x and y coordinates indicating their location, an ID which served as their unique identifier, a name, and an age. PEOPLE-large was a
 large data file which contained every person who attended the concert. However, what we didn't know was who in this file (which people) were infected with COVID or not. 
