@@ -1,6 +1,6 @@
 ## Project Disclaimer:
 
-All deliverables in this repository were collaboratively created by the project team. This repository is maintained solely for portfolio and purposes. I do not 
+All deliverables in this repository were collaboratively created by the project team. This repository is maintained solely for portfolio purposes. I do not 
 claim sole ownership of the code or documents presented in it.
 
 
