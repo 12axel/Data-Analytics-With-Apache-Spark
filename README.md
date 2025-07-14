@@ -9,6 +9,7 @@ infected with COVID. PEOPLE-SOME-INFECTED-large was the same dataset as PEOPLE-l
 which indicated whether a person was infected with COVID or not (“yes” or “no”) based on the records in the INFECTED-small file.
 
 Once the data creation was all done, the following queries using Spark-RDD had to be performed.
+
 Query 1 required us to find all people p-j in the PEOPLE-large file who were at risk of having become infected with COVID due to having been seated within 6 units range of 
 infect-i for each infected person (infect-i) listed in the INFECTED-small file. We were required to return the list of join pairs composed of people pi from the 
 PEOPLE-large files that were a close contact with the person infect-i that infected them in the format of (pi, infect-i). 
